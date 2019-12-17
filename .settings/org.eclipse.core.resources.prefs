@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebContent/Form.jsp=UTF-8
+encoding//WebContent/HienThiSach.jsp=UTF-8
+encoding//WebContent/MayTinh.jsp=UTF-8
+encoding//WebContent/index.jsp=UTF-8
+encoding//WebContent/layout/nav.jsp=UTF-8
+encoding//WebContent/lichsumuahang.jsp=UTF-8
+encoding//WebContent/tong.jsp=UTF-8
+encoding//src/Dao/sachdao.java=UTF-8
+encoding//src/controller/dangnhapcontroller.java=UTF-8
+encoding//src/controller/sachadmincontroller.java=UTF-8
+encoding//src/controller/tongcontroller.java=UTF-8
